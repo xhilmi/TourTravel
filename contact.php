@@ -88,7 +88,7 @@
 								<div class="col-sm-7 col-sm-push-1 col-md-7 col-md-push-1">
 									
 									<h2>About Us</h2>
-									<h3>Address : Jalan Trowulan No.18 Kota Yogyakarta</h3>
+									<h3>Address : Jemb. Merah No.84C, Soropadan, Condongcatur, Kec. Depok, Kab. Sleman, Daerah Istimewa Yogyakarta</h3>
 									<h3>Telpon : (0342)77854621</h3>
 									<h3>Email : hello@hostaja.com</h3>
 					
