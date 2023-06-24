@@ -117,3 +117,6 @@ Stack trace:
 [24-Jun-2023 14:51:02 UTC] PHP Warning:  Missing argument 3 for admin::login_admin(), called in /home/thanos/domain/tourtravel.thanos.my.id/Admin/index.php on line 24 and defined in /home/thanos/domain/tourtravel.thanos.my.id/class/admin.php on line 13
 [24-Jun-2023 14:58:43 UTC] PHP Warning:  Missing argument 3 for admin::login_admin(), called in /home/thanos/domain/tourtravel.thanos.my.id/Admin/index.php on line 24 and defined in /home/thanos/domain/tourtravel.thanos.my.id/class/admin.php on line 13
 [24-Jun-2023 14:59:29 UTC] PHP Warning:  Missing argument 3 for admin::login_admin(), called in /home/thanos/domain/tourtravel.thanos.my.id/Admin/index.php on line 24 and defined in /home/thanos/domain/tourtravel.thanos.my.id/class/admin.php on line 13
+[24-Jun-2023 15:40:24 UTC] PHP Notice:  Undefined index: foto in /home/thanos/domain/tourtravel.thanos.my.id/Admin/header.php on line 25
+[24-Jun-2023 15:40:24 UTC] PHP Notice:  Undefined index: nama in /home/thanos/domain/tourtravel.thanos.my.id/Admin/header.php on line 30
+[24-Jun-2023 15:40:29 UTC] PHP Warning:  Missing argument 3 for admin::login_admin(), called in /home/thanos/domain/tourtravel.thanos.my.id/Admin/index.php on line 24 and defined in /home/thanos/domain/tourtravel.thanos.my.id/class/admin.php on line 13
