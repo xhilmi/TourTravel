@@ -1,0 +1,7 @@
+deployment:
+ 
+ tasks:
+ 
+   - export DEPLOYPATH=/home/thanos/domain/tourtravel.thanos.my.id
+ 
+   - /bin/cp -R * $DEPLOYPATH
