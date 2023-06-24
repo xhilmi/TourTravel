@@ -1,4 +1,3 @@
-# Aplikasi-Biro-Travel
-adalah aplikai info wisata dan pemesanan paket wisata.
-
-impor database kemudian sesuaikan file koneksi database.
+# Aplikasi Tour Travel by Hostaja
+- Ini adalah aplikasi info wisata dan pemesanan paket wisata.
+- Impor database kemudian sesuaikan file koneksi database.
