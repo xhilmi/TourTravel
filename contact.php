@@ -90,7 +90,7 @@
 									<h2>About Us</h2>
 									<h3>Address : Jalan Trowulan No.18 Kota Yogyakarta</h3>
 									<h3>Telpon : (0342)77854621</h3>
-									<h3>Email : hello@hostaja.com</h3>
+									<h3>Email : hello@thanos.my.id</h3>
 					
 									<!-- <p><a class="btn btn-primary btn-lg" href="#">Get Started</a></p> -->
 								</div>

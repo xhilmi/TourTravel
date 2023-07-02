@@ -184,7 +184,7 @@
 							<ul class="contact-info">
 								<li><i class="icon-location-pin"></i>Jalan Trowulan No.18 Bendogerit Kota Yogyakarta</li>
 								<li><i class="icon-phone2"></i>+6285728518982</li>
-								<li><i class="icon-mail"></i><a href="#">hello@hostaja.com</a></li>
+								<li><i class="icon-mail"></i><a href="#">hello@thanos.my.id</a></li>
 								<li><i class="icon-globe2"></i><a href="#">www.hostaja.com</a></li>
 							</ul>
 						</div>

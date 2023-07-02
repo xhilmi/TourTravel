@@ -15,7 +15,7 @@
 								<a href="#"><i class="icon-dribbble2"></i></a>
 								<a href="#"><i class="icon-youtube"></i></a>
 							</p>
-							<p>Copyright 2023  . Yogya Tourism. <br>Made   by HostAja</a></p>
+							<p>Copyright 2023  . Yogya Tourism. <br>Made   by UMBY</a></p>
 						</div>
 					</div>
 				</div>
